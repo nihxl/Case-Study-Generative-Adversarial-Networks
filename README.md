@@ -8,7 +8,7 @@
 > Case Study Report submitted as part of Continuous Internal Evaluation for **AIT401 – Foundations of Deep Learning**
 > **Vimal Jyothi Engineering College, Chemperi**
 
-📄 **Full report:** [`GAN_Case_Study_Report.pdf`](./GAN_Case_Study_Report.pdf)
+📄 **Full report:** [`GAN_Case_Study_Report.pdf`]('GAN Case Study Report.pdf')
 
 ---
 
